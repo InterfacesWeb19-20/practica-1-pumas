@@ -1,0 +1,23 @@
+@charset "utf-8";
+body{
+	width:80%; 
+	margin-left:10%; 
+	margin-right:10%;
+	font-family: 'Roboto', sans-serif;
+	align:center;
+}
+.izquierda{
+	width:30%; 
+	float:left;
+	margin-right:20px;
+}
+.derecha{
+	width:45%; 
+	float:left;
+}
+img{
+	margin-top:20px;
+	}
+
+/* CSS Document */
+
