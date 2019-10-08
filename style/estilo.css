@@ -5,6 +5,8 @@ body{
 	margin-right:10%;
 	font-family: 'Roboto', sans-serif;
 	align:center;
+	line-height:2.5em;
+
 }
 .izquierda{
 	width:30%; 
@@ -15,8 +17,15 @@ body{
 	width:45%; 
 	float:left;
 }
+.sesenta{
+	margin-left:5px;
+	margin-top:20px;
+	width:55%; 
+	float:left;
+}
 img{
 	margin-top:20px;
+	border-radius:5%;
 	}
 	
 
