@@ -8,14 +8,34 @@ body{
 	line-height:2.5em;
 
 }
+submenu:hover{
+    background:#ddd;
+    cursor:pointer;
+}
+.pares{
+	background-color:#B0B0B0;
+	text-align:center; 
+	margin:1px; 
+	clear:both; 
+}
+.impares{
+	clear:both;
+	background-color:#7C7C7C;
+	
+}
+h2{
+	text-align:center;
+}
 .izquierda{
-	width:30%; 
+	width:45%; 
 	float:left;
 	margin-right:20px;
 }
 .derecha{
 	width:45%; 
 	float:left;
+	margin-right:20px;
+
 }
 .sesenta{
 	margin-left:5px;
